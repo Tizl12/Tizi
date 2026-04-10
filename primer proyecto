@@ -1,0 +1,10 @@
+mkdir web 
+cd web
+git init
+echo hola internet > indec.html
+git add.
+git config user.name Tizl12
+git config user.email tizijeche0509@gmail.com
+git commit -he
+git push-u
+origin master
