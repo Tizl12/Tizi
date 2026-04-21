@@ -1,10 +1,11 @@
 mkdir web 
 cd web
 git init
-echo hola internet > indec.html
-git add.
+echo hola internet > index.html
+git add .
 git config user.name Tizl12
 git config user.email tizijeche0509@gmail.com
-git commit -he
-git push-u
-origin master
+git commit -m "mensaje del commit"
+git push -u origin master
+(te pide usuario y PAT)
+la proxima vez que subis algun en cambio es commit y git push a secas
